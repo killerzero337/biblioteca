@@ -1,0 +1,39 @@
+<div class="flex justify-center min-h-10 gap-5">
+  <div
+    class="card-container max-w-sm rounded overflow-hidden shadow-lg bg-gray-900 p-6 mt-10 border-4 border-green-800"
+  >
+    <h2 class="font-bold text-xl mb-4 text-green-300 pixel-font">
+      Escrituras y tomos
+    </h2>
+    <p class="text-green-200 text-base mb-4">
+      Explora los secretos de la magia prohibida. Aquí puedes encontrar los
+      detalles de conjuros antiguos y rituales oscuros.
+    </p>
+    <a [routerLink]="['/libros']">
+      <button
+        class="bg-[#5a595a] text-gray-100 font-bold py-2 px-4 rounded hover:bg-[#252325] pixel-font"
+      >
+        Ver los escritos
+      </button>
+    </a>
+  </div>
+  
+  <div
+    class="card-container max-w-sm rounded overflow-hidden shadow-lg bg-gray-900 p-6 mt-10 border-4 border-green-800"
+  >
+    <h2 class="font-bold text-xl mb-4 text-green-300 pixel-font">
+      Consulta los Archivos
+    </h2>
+    <p class="text-green-200 text-base mb-4">
+      Accede a la biblioteca para explorar libros y autores. Descubre más sobre
+      los textos y sus creadores.
+    </p>
+    <a [routerLink]="['/consulta']">
+      <button
+        class="bg-[#5a595a] text-gray-100 font-bold py-2 px-4 rounded hover:bg-[#252325] pixel-font"
+      >
+        Explorar la consulta
+      </button>
+    </a>
+  </div>
+</div>

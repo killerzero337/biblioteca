@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+a,
+span,
+button {
+  font-family: "Pixelify Sans", serif;
+}

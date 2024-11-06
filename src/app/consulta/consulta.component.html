@@ -1,0 +1,43 @@
+<div class="flex justify-center space-x-10 p-6">
+  <div
+    class="card-container w-[24rem] h-[32rem] rounded overflow-hidden shadow-lg bg-gray-900 p-6 mt-10 border-4 border-green-800 overflow-y-auto"
+  >
+    <h2 class="font-bold text-2xl mb-4 text-green-300">Autores</h2>
+
+    <ul class="list-group space-y-2">
+      <li
+        *ngFor="let autor of autores"
+        (click)="selectAutor(autor)"
+        class="list-group-item cursor-pointer bg-[#5a595a] text-gray-100 px-4 py-2 rounded hover:bg-[#252325]"
+      >
+        {{ autor.nombre }} {{ autor.apellidos }}
+      </li>
+    </ul>
+  </div>
+
+  <div
+    class="card-container w-[36rem] h-[32rem] rounded overflow-hidden shadow-lg bg-gray-900 p-6 mt-10 border-4 border-green-800 overflow-y-auto"
+  >
+    <div *ngIf="selectedAutor">
+      <h3 class="text-xl font-semibold mb-2 text-green-300">
+        {{ selectedAutor.nombre }} {{ selectedAutor.apellidos }}
+      </h3>
+      <img
+        [src]="selectedAutor.imagen"
+        alt="{{ selectedAutor.nombre }}"
+        class="rounded-lg mb-4 w-48 h-auto"
+      />
+      <p class="text-gray-300 mb-4">{{ selectedAutor.descripcion }}</p>
+
+      <h4 class="text-lg font-semibold mb-2 text-green-300">Libros</h4>
+      <ul class="list-group space-y-2">
+        <li
+          *ngFor="let libro of libros"
+          class="bg-[#5a595a] text-gray-100 px-4 py-2 rounded hover:bg-[#252325]"
+        >
+          {{ libro.nombre }} - {{ libro.critica }}
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

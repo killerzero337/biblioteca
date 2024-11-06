@@ -1,0 +1,34 @@
+<div class="min-h-screen overflow-auto">
+  <!-- Contenedor de las tarjetas -->
+  <div class="flex flex-wrap justify-center p-4 px-40 gap-2 mb-24">
+    <div
+      *ngFor="let libro of libros"
+      class="max-w-xs rounded shadow-lg bg-gray-900 p-4 border-4 border-green-800"
+    >
+      <img
+        [src]="libro.imagen"
+        alt="{{ libro.nombre }}"
+        class="w-full h-32 object-cover object-top mb-4 rounded-t-lg"
+      />
+      <h2 class="font-bold text-lg mb-2 text-green-300 pixel-font">
+        {{ libro.nombre }}
+      </h2>
+
+      <p class="text-green-200 text-sm mb-2">
+        {{ libro.autor }}
+      </p>
+
+      <input
+        [(ngModel)]="libro.critica"
+        class="w-full mb-4 p-2 text-gray-900 rounded text-sm"
+        placeholder="Escribe tu crítica aquí"
+      />
+
+      <button
+        (click)="cambiarCritica(libro, libro.critica)"
+        class="bg-[#5a595a] text-gray-100 font-bold py-1 px-2 rounded hover:bg-[#252325] text-sm pixel-font"
+      >
+        Cambiar Crítica
+      </button>
+    </div>
+  </div>

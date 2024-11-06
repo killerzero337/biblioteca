@@ -1,0 +1,79 @@
+<div
+  class="bg-header-image2 bg-repeat-round bg-contain h-28 bg-top flex justify-center items-center w-full backdrop-filter"
+>
+  <ul class="flex space-x-4 gap-4 z-10">
+    <li>
+      <a
+        [routerLink]="['/inicio']"
+        class="text-white"
+        routerLinkActive
+        #linkInicio="routerLinkActive"
+      >
+        <div
+          [ngClass]="{
+            'nav-button-active': linkInicio.isActive,
+            'nav-button': !linkInicio.isActive
+          }"
+          class="nav-button"
+        >
+          <div class="nav-text">Inicio</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a
+        [routerLink]="['/libros']"
+        class="text-white"
+        routerLinkActive
+        #linkLibros="routerLinkActive"
+      >
+        <div
+          [ngClass]="{
+            'nav-button-active': linkLibros.isActive,
+            'nav-button': !linkLibros.isActive
+          }"
+          class="nav-button"
+        >
+          <div class="nav-text">Libros</div>
+        </div>
+      </a>
+    </li>
+
+    <li>
+      <a
+        [routerLink]="['/autores']"
+        class="text-white"
+        routerLinkActive
+        #linkAutores="routerLinkActive"
+      >
+        <div
+          [ngClass]="{
+            'nav-button-active': linkAutores.isActive,
+            'nav-button': !linkAutores.isActive
+          }"
+          class="nav-button"
+        >
+          <div class="nav-text">Autores</div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a
+        [routerLink]="['/consulta']"
+        class="text-white"
+        routerLinkActive
+        #linkConsulta="routerLinkActive"
+      >
+        <div
+          [ngClass]="{
+            'nav-button-active': linkConsulta.isActive,
+            'nav-button': !linkConsulta.isActive
+          }"
+          class="nav-button"
+        >
+          <div class="nav-text">Consulta</div>
+        </div>
+      </a>
+    </li>
+  </ul>
+</div>

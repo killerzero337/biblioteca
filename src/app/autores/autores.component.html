@@ -1,0 +1,46 @@
+<div class="flex justify-center space-x-10 p-6">
+  <div
+    class="card-container w-[24rem] h-[32rem] rounded overflow-hidden shadow-lg bg-gray-900 p-6 mt-10 border-4 border-green-800 overflow-y-auto"
+  >
+    <h2 class="font-bold text-2xl mb-4 text-green-300">Autores</h2>
+
+    <ul class="list-group space-y-2">
+      <li
+        *ngFor="let autor of autores"
+        (click)="selectAutor(autor)"
+        class="list-group-item cursor-pointer bg-[#5a595a] text-gray-100 px-4 py-2 rounded hover:bg-[#252325]"
+      >
+        {{ autor.nombre }} {{ autor.apellidos }}
+      </li>
+    </ul>
+  </div>
+
+  <div
+    class="card-container w-[36rem] h-[32rem] rounded overflow-hidden shadow-lg bg-gray-900 p-6 mt-10 border-4 border-green-800 overflow-y-auto"
+  >
+    <div *ngIf="selectedAutor">
+      <h3 class="text-xl font-semibold mb-2 text-green-300">
+        {{ selectedAutor.nombre }} {{ selectedAutor.apellidos }}
+      </h3>
+      <img
+        [src]="selectedAutor.imagen"
+        alt="{{ selectedAutor.nombre }}"
+        class="rounded-lg mb-4 w-36 h-auto"
+      />
+
+      <textarea
+        [(ngModel)]="selectedAutor.descripcion"
+        class="w-full mb-4 p-2 text-gray-900 rounded"
+        rows="4"
+        placeholder="Edita la descripción del autor"
+      ></textarea>
+
+      <button
+        (click)="cambiarDescripcion(selectedAutor, selectedAutor.descripcion)"
+        class="bg-[#5a595a] text-gray-100 font-bold py-2 px-4 rounded hover:bg-[#252325] pixel-font"
+      >
+        Guardar Descripción
+      </button>
+    </div>
+  </div>
+</div>

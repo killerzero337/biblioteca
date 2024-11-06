@@ -1,0 +1,21 @@
+<header
+  [ngClass]="{ 'header-small': isScrolled }"
+  class="bg-header-image bg-no-repeat bg-cover h-36 bg-center flex justify-center items-center transition-all duration-300"
+>
+  <!--<div
+    class="flex items-center space-x-4 border-blue-400 border-solid border-2"
+  >-->
+  <div
+    class="flex items-center space-x-4"
+  >
+    <img
+      src="nigromante.png"
+      alt="imagen-logo-nigromante"
+      class="h-24 brightness-1000 mix-blend-screen"
+    />
+    <h1 class="text-2xl text-white">La biblio del nigromante</h1>
+  </div>
+</header>
+<div class="sticky top-0">
+  <app-enlaces></app-enlaces>
+</div>

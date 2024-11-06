@@ -1,0 +1,94 @@
+[[Creado número oculto: 2]]
+>> Hilo 0 comienza.
+>> Hilo 1 comienza.
+Hilo 1 propone número 90.
+Hilo 1 propone número 64.
+Hilo 1 propone número 38.
+>> Hilo 2 comienza.
+Hilo 0 propone número 10.
+Hilo 0 propone número 26.
+Hilo 0 propone número 13.
+Hilo 0 propone número 22.
+Hilo 0 propone número 77.
+Hilo 0 propone número 71.
+Hilo 0 propone número 91.
+Hilo 0 propone número 60.
+>> Hilo 3 comienza.
+Hilo 3 propone número 80.
+Hilo 3 propone número 37.
+Hilo 3 propone número 81.
+Hilo 3 propone número 32.
+Hilo 3 propone número 84.
+Hilo 3 propone número 0.
+Hilo 3 propone número 79.
+Hilo 3 propone número 57.
+Hilo 3 propone número 69.
+Hilo 3 propone número 65.
+Hilo 3 propone número 86.
+Hilo 3 propone número 42.
+Hilo 3 propone número 7.
+Hilo 3 propone número 38.
+Hilo 3 propone número 28.
+Hilo 3 propone número 61.
+Hilo 3 propone número 87.
+Hilo 3 propone número 80.
+Hilo 3 propone número 64.
+Hilo 3 propone número 32.
+Hilo 3 propone número 28.
+Hilo 3 propone número 86.
+Hilo 3 propone número 62.
+Hilo 3 propone número 8.
+Hilo 3 propone número 66.
+Hilo 3 propone número 67.
+Hilo 3 propone número 32.
+Hilo 3 propone número 36.
+Hilo 3 propone número 11.
+Hilo 3 propone número 96.
+Hilo 3 propone número 8.
+Hilo 3 propone número 5.
+Hilo 3 propone número 69.
+Hilo 3 propone número 71.
+Hilo 3 propone número 70.
+Hilo 3 propone número 4.
+Hilo 3 propone número 45.
+Hilo 3 propone número 31.
+Hilo 3 propone número 61.
+Hilo 3 propone número 31.
+>> Hilo 5 comienza.
+Hilo 5 propone número 28.
+Hilo 5 propone número 2.
+¡¡¡ Hilo 5 acierta con el número: 2 !!!
+## Hilo 5 termina.
+>> Hilo 4 comienza.
+Hilo 4 propone número 76.
+Hilo 4: otro hilo ha acertado.
+## Hilo 4 termina.
+>> Hilo 6 comienza.
+Hilo 6 propone número 46.
+Hilo 6: otro hilo ha acertado.
+## Hilo 6 termina.
+>> Hilo 9 comienza.
+Hilo 9 propone número 38.
+Hilo 9: otro hilo ha acertado.
+## Hilo 9 termina.
+>> Hilo 7 comienza.
+Hilo 7 propone número 51.
+Hilo 7: otro hilo ha acertado.
+## Hilo 7 termina.
+>> Hilo 8 comienza.
+Hilo 1 propone número 33.
+Hilo 1: otro hilo ha acertado.
+## Hilo 1 termina.
+Hilo 2 propone número 96.
+Hilo 2: otro hilo ha acertado.
+## Hilo 2 termina.
+Hilo 0 propone número 14.
+Hilo 0: otro hilo ha acertado.
+## Hilo 0 termina.
+Hilo 3 propone número 11.
+Hilo 3: otro hilo ha acertado.
+## Hilo 3 termina.
+Hilo 8 propone número 75.
+Hilo 8: otro hilo ha acertado.
+## Hilo 8 termina.
+BUILD SUCCESSFUL (total time: 0 seconds)

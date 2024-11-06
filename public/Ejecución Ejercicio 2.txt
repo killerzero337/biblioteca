@@ -1,0 +1,361 @@
+[[Partida: 1, creado número oculto: 6]]
+>> Hilo 0 comienza.
+>> Hilo 1 comienza.
+Hilo 1 propone número 78 para partida 1.
+>> Hilo 2 comienza.
+Hilo 2 propone número 79 para partida 1.
+Hilo 2 propone número 43 para partida 1.
+>> Hilo 3 comienza.
+Hilo 3 propone número 47 para partida 1.
+Hilo 3 propone número 87 para partida 1.
+Hilo 3 propone número 62 para partida 1.
+Hilo 3 propone número 30 para partida 1.
+Hilo 3 propone número 26 para partida 1.
+Hilo 3 propone número 69 para partida 1.
+Hilo 3 propone número 77 para partida 1.
+Hilo 3 propone número 80 para partida 1.
+Hilo 3 propone número 8 para partida 1.
+Hilo 3 propone número 0 para partida 1.
+Hilo 3 propone número 52 para partida 1.
+Hilo 3 propone número 48 para partida 1.
+Hilo 3 propone número 3 para partida 1.
+Hilo 3 propone número 57 para partida 1.
+Hilo 3 propone número 86 para partida 1.
+Hilo 3 propone número 39 para partida 1.
+Hilo 3 propone número 65 para partida 1.
+Hilo 3 propone número 12 para partida 1.
+Hilo 3 propone número 88 para partida 1.
+Hilo 3 propone número 51 para partida 1.
+Hilo 3 propone número 39 para partida 1.
+Hilo 3 propone número 39 para partida 1.
+Hilo 3 propone número 54 para partida 1.
+Hilo 3 propone número 24 para partida 1.
+Hilo 3 propone número 17 para partida 1.
+Hilo 3 propone número 60 para partida 1.
+Hilo 3 propone número 69 para partida 1.
+Hilo 3 propone número 83 para partida 1.
+Hilo 3 propone número 44 para partida 1.
+Hilo 3 propone número 60 para partida 1.
+Hilo 3 propone número 76 para partida 1.
+Hilo 3 propone número 12 para partida 1.
+Hilo 3 propone número 21 para partida 1.
+Hilo 3 propone número 64 para partida 1.
+Hilo 3 propone número 87 para partida 1.
+Hilo 3 propone número 33 para partida 1.
+Hilo 3 propone número 65 para partida 1.
+Hilo 3 propone número 61 para partida 1.
+Hilo 3 propone número 8 para partida 1.
+Hilo 3 propone número 45 para partida 1.
+Hilo 3 propone número 77 para partida 1.
+Hilo 3 propone número 99 para partida 1.
+Hilo 3 propone número 49 para partida 1.
+Hilo 3 propone número 46 para partida 1.
+Hilo 3 propone número 79 para partida 1.
+Hilo 3 propone número 90 para partida 1.
+Hilo 3 propone número 42 para partida 1.
+Hilo 3 propone número 22 para partida 1.
+Hilo 3 propone número 40 para partida 1.
+Hilo 3 propone número 30 para partida 1.
+Hilo 3 propone número 38 para partida 1.
+Hilo 3 propone número 45 para partida 1.
+>> Hilo 4 comienza.
+Hilo 0 propone número 6 para partida 1.
+[[Partida: 2, creado número oculto: 65]]
+¡¡¡ Hilo 0 acierta con el número: 6 en partida: 1 !!!
+Hilo 0 propone número 87 para partida 2.
+Hilo 0 propone número 50 para partida 2.
+Hilo 0 propone número 24 para partida 2.
+Hilo 0 propone número 24 para partida 2.
+Hilo 0 propone número 55 para partida 2.
+Hilo 0 propone número 34 para partida 2.
+Hilo 0 propone número 45 para partida 2.
+Hilo 0 propone número 67 para partida 2.
+Hilo 0 propone número 33 para partida 2.
+Hilo 0 propone número 37 para partida 2.
+Hilo 0 propone número 21 para partida 2.
+Hilo 0 propone número 68 para partida 2.
+Hilo 0 propone número 28 para partida 2.
+>> Hilo 5 comienza.
+Hilo 5 propone número 23 para partida 2.
+Hilo 5 propone número 99 para partida 2.
+Hilo 5 propone número 43 para partida 2.
+Hilo 5 propone número 86 para partida 2.
+Hilo 5 propone número 1 para partida 2.
+Hilo 5 propone número 83 para partida 2.
+Hilo 5 propone número 30 para partida 2.
+Hilo 5 propone número 61 para partida 2.
+Hilo 5 propone número 0 para partida 2.
+Hilo 5 propone número 98 para partida 2.
+Hilo 5 propone número 15 para partida 2.
+Hilo 5 propone número 18 para partida 2.
+Hilo 5 propone número 11 para partida 2.
+Hilo 5 propone número 52 para partida 2.
+Hilo 5 propone número 61 para partida 2.
+Hilo 5 propone número 96 para partida 2.
+Hilo 5 propone número 54 para partida 2.
+Hilo 5 propone número 8 para partida 2.
+Hilo 5 propone número 45 para partida 2.
+Hilo 5 propone número 24 para partida 2.
+Hilo 5 propone número 73 para partida 2.
+Hilo 5 propone número 30 para partida 2.
+Hilo 5 propone número 31 para partida 2.
+Hilo 5 propone número 51 para partida 2.
+Hilo 5 propone número 62 para partida 2.
+Hilo 5 propone número 55 para partida 2.
+>> Hilo 7 comienza.
+Hilo 7 propone número 47 para partida 2.
+Hilo 7 propone número 52 para partida 2.
+Hilo 7 propone número 53 para partida 2.
+Hilo 7 propone número 81 para partida 2.
+Hilo 7 propone número 89 para partida 2.
+Hilo 7 propone número 17 para partida 2.
+Hilo 7 propone número 8 para partida 2.
+Hilo 7 propone número 15 para partida 2.
+Hilo 7 propone número 47 para partida 2.
+Hilo 7 propone número 59 para partida 2.
+Hilo 7 propone número 97 para partida 2.
+Hilo 7 propone número 24 para partida 2.
+Hilo 7 propone número 63 para partida 2.
+Hilo 7 propone número 18 para partida 2.
+Hilo 7 propone número 99 para partida 2.
+Hilo 7 propone número 51 para partida 2.
+Hilo 7 propone número 11 para partida 2.
+Hilo 7 propone número 39 para partida 2.
+Hilo 7 propone número 6 para partida 2.
+Hilo 7 propone número 26 para partida 2.
+Hilo 7 propone número 100 para partida 2.
+Hilo 7 propone número 27 para partida 2.
+Hilo 7 propone número 14 para partida 2.
+Hilo 7 propone número 36 para partida 2.
+Hilo 7 propone número 25 para partida 2.
+Hilo 7 propone número 15 para partida 2.
+Hilo 7 propone número 7 para partida 2.
+Hilo 7 propone número 28 para partida 2.
+Hilo 7 propone número 84 para partida 2.
+Hilo 7 propone número 74 para partida 2.
+Hilo 7 propone número 10 para partida 2.
+Hilo 7 propone número 48 para partida 2.
+Hilo 7 propone número 81 para partida 2.
+Hilo 7 propone número 0 para partida 2.
+Hilo 7 propone número 84 para partida 2.
+Hilo 7 propone número 49 para partida 2.
+Hilo 7 propone número 43 para partida 2.
+Hilo 7 propone número 23 para partida 2.
+Hilo 7 propone número 26 para partida 2.
+Hilo 7 propone número 72 para partida 2.
+Hilo 7 propone número 36 para partida 2.
+Hilo 7 propone número 66 para partida 2.
+Hilo 7 propone número 84 para partida 2.
+Hilo 7 propone número 2 para partida 2.
+Hilo 7 propone número 80 para partida 2.
+Hilo 7 propone número 76 para partida 2.
+Hilo 7 propone número 56 para partida 2.
+Hilo 7 propone número 93 para partida 2.
+Hilo 7 propone número 59 para partida 2.
+Hilo 7 propone número 68 para partida 2.
+Hilo 7 propone número 65 para partida 2.
+[[Partida: 3, creado número oculto: 25]]
+¡¡¡ Hilo 7 acierta con el número: 65 en partida: 2 !!!
+Hilo 7 propone número 92 para partida 3.
+Hilo 7 propone número 54 para partida 3.
+Hilo 7 propone número 15 para partida 3.
+Hilo 7 propone número 51 para partida 3.
+Hilo 7 propone número 43 para partida 3.
+Hilo 1 propone número 100 para partida 1.
+Hilo 1: otro hilo ha acertado en partida 1, nueva partida: 3.
+Hilo 1 propone número 23 para partida 3.
+Hilo 1 propone número 26 para partida 3.
+Hilo 1 propone número 1 para partida 3.
+Hilo 1 propone número 36 para partida 3.
+Hilo 1 propone número 38 para partida 3.
+Hilo 1 propone número 69 para partida 3.
+Hilo 1 propone número 79 para partida 3.
+Hilo 1 propone número 66 para partida 3.
+Hilo 1 propone número 57 para partida 3.
+Hilo 1 propone número 53 para partida 3.
+Hilo 1 propone número 8 para partida 3.
+Hilo 1 propone número 92 para partida 3.
+Hilo 1 propone número 85 para partida 3.
+Hilo 1 propone número 52 para partida 3.
+Hilo 1 propone número 50 para partida 3.
+Hilo 1 propone número 64 para partida 3.
+Hilo 1 propone número 19 para partida 3.
+Hilo 1 propone número 83 para partida 3.
+Hilo 1 propone número 6 para partida 3.
+Hilo 1 propone número 76 para partida 3.
+Hilo 1 propone número 57 para partida 3.
+Hilo 1 propone número 5 para partida 3.
+Hilo 1 propone número 78 para partida 3.
+Hilo 1 propone número 100 para partida 3.
+Hilo 1 propone número 39 para partida 3.
+>> Hilo 6 comienza.
+Hilo 6 propone número 28 para partida 3.
+Hilo 6 propone número 71 para partida 3.
+Hilo 6 propone número 98 para partida 3.
+Hilo 6 propone número 16 para partida 3.
+Hilo 6 propone número 12 para partida 3.
+Hilo 6 propone número 91 para partida 3.
+Hilo 6 propone número 69 para partida 3.
+Hilo 6 propone número 63 para partida 3.
+Hilo 6 propone número 19 para partida 3.
+Hilo 6 propone número 69 para partida 3.
+Hilo 6 propone número 75 para partida 3.
+Hilo 6 propone número 62 para partida 3.
+Hilo 6 propone número 33 para partida 3.
+Hilo 6 propone número 68 para partida 3.
+Hilo 6 propone número 25 para partida 3.
+[[Partida: 4, creado número oculto: 82]]
+¡¡¡ Hilo 6 acierta con el número: 25 en partida: 3 !!!
+Hilo 6 propone número 53 para partida 4.
+Hilo 6 propone número 14 para partida 4.
+Hilo 6 propone número 25 para partida 4.
+Hilo 6 propone número 12 para partida 4.
+Hilo 6 propone número 99 para partida 4.
+Hilo 6 propone número 72 para partida 4.
+Hilo 6 propone número 35 para partida 4.
+Hilo 6 propone número 8 para partida 4.
+>> Hilo 8 comienza.
+Hilo 8 propone número 5 para partida 4.
+Hilo 8 propone número 65 para partida 4.
+Hilo 8 propone número 90 para partida 4.
+Hilo 8 propone número 44 para partida 4.
+Hilo 8 propone número 9 para partida 4.
+Hilo 8 propone número 89 para partida 4.
+Hilo 8 propone número 69 para partida 4.
+Hilo 8 propone número 74 para partida 4.
+Hilo 8 propone número 5 para partida 4.
+>> Hilo 9 comienza.
+Hilo 9 propone número 39 para partida 4.
+Hilo 9 propone número 5 para partida 4.
+Hilo 9 propone número 61 para partida 4.
+Hilo 9 propone número 91 para partida 4.
+Hilo 9 propone número 14 para partida 4.
+Hilo 9 propone número 16 para partida 4.
+Hilo 9 propone número 89 para partida 4.
+Hilo 9 propone número 55 para partida 4.
+Hilo 9 propone número 100 para partida 4.
+Hilo 9 propone número 11 para partida 4.
+Hilo 2 propone número 80 para partida 1.
+Hilo 2: otro hilo ha acertado en partida 1, nueva partida: 4.
+Hilo 2 propone número 75 para partida 4.
+Hilo 2 propone número 92 para partida 4.
+Hilo 2 propone número 83 para partida 4.
+Hilo 2 propone número 25 para partida 4.
+Hilo 2 propone número 19 para partida 4.
+Hilo 2 propone número 28 para partida 4.
+Hilo 2 propone número 51 para partida 4.
+Hilo 3 propone número 20 para partida 1.
+Hilo 3: otro hilo ha acertado en partida 1, nueva partida: 4.
+Hilo 3 propone número 46 para partida 4.
+Hilo 4 propone número 9 para partida 1.
+Hilo 4: otro hilo ha acertado en partida 1, nueva partida: 4.
+Hilo 4 propone número 4 para partida 4.
+Hilo 4 propone número 52 para partida 4.
+Hilo 4 propone número 7 para partida 4.
+Hilo 4 propone número 69 para partida 4.
+Hilo 4 propone número 5 para partida 4.
+Hilo 4 propone número 39 para partida 4.
+Hilo 4 propone número 63 para partida 4.
+Hilo 4 propone número 43 para partida 4.
+Hilo 4 propone número 61 para partida 4.
+Hilo 4 propone número 22 para partida 4.
+Hilo 4 propone número 93 para partida 4.
+Hilo 0 propone número 77 para partida 2.
+Hilo 0: otro hilo ha acertado en partida 2, nueva partida: 4.
+Hilo 0 propone número 16 para partida 4.
+Hilo 0 propone número 24 para partida 4.
+Hilo 0 propone número 53 para partida 4.
+Hilo 0 propone número 42 para partida 4.
+Hilo 0 propone número 88 para partida 4.
+Hilo 0 propone número 81 para partida 4.
+Hilo 0 propone número 54 para partida 4.
+Hilo 0 propone número 53 para partida 4.
+Hilo 5 propone número 73 para partida 2.
+Hilo 5: otro hilo ha acertado en partida 2, nueva partida: 4.
+Hilo 5 propone número 98 para partida 4.
+Hilo 5 propone número 27 para partida 4.
+Hilo 5 propone número 70 para partida 4.
+Hilo 5 propone número 60 para partida 4.
+Hilo 5 propone número 23 para partida 4.
+Hilo 7 propone número 21 para partida 3.
+Hilo 7: otro hilo ha acertado en partida 3, nueva partida: 4.
+Hilo 7 propone número 6 para partida 4.
+Hilo 7 propone número 62 para partida 4.
+Hilo 7 propone número 23 para partida 4.
+Hilo 7 propone número 91 para partida 4.
+Hilo 7 propone número 59 para partida 4.
+Hilo 7 propone número 34 para partida 4.
+Hilo 7 propone número 53 para partida 4.
+Hilo 7 propone número 52 para partida 4.
+Hilo 7 propone número 33 para partida 4.
+Hilo 7 propone número 29 para partida 4.
+Hilo 7 propone número 26 para partida 4.
+Hilo 7 propone número 80 para partida 4.
+Hilo 7 propone número 3 para partida 4.
+Hilo 7 propone número 60 para partida 4.
+Hilo 1 propone número 98 para partida 3.
+Hilo 1: otro hilo ha acertado en partida 3, nueva partida: 4.
+Hilo 1 propone número 63 para partida 4.
+Hilo 1 propone número 20 para partida 4.
+Hilo 1 propone número 35 para partida 4.
+Hilo 1 propone número 31 para partida 4.
+Hilo 1 propone número 16 para partida 4.
+Hilo 1 propone número 41 para partida 4.
+Hilo 1 propone número 30 para partida 4.
+Hilo 1 propone número 54 para partida 4.
+Hilo 1 propone número 95 para partida 4.
+Hilo 1 propone número 7 para partida 4.
+Hilo 1 propone número 82 para partida 4.
+Hilo 6 propone número 34 para partida 4.
+Hilo 6: otro hilo ha acertado en partida 4, nueva partida: 5.
+Hilo 6 propone número 80 para partida 5.
+Hilo 6 propone número 4 para partida 5.
+Hilo 6 propone número 97 para partida 5.
+Hilo 6 propone número 11 para partida 5.
+Hilo 6 propone número 71 para partida 5.
+Hilo 8 propone número 68 para partida 4.
+Hilo 8: otro hilo ha acertado en partida 4, nueva partida: 5.
+Hilo 8 propone número 37 para partida 5.
+Hilo 8 propone número 93 para partida 5.
+Hilo 8 propone número 12 para partida 5.
+Hilo 8 propone número 63 para partida 5.
+Hilo 8 propone número 97 para partida 5.
+Hilo 8 propone número 89 para partida 5.
+Hilo 8 propone número 52 para partida 5.
+Hilo 8 propone número 23 para partida 5.
+Hilo 8 propone número 25 para partida 5.
+Hilo 8 propone número 64 para partida 5.
+Hilo 8 propone número 95 para partida 5.
+Hilo 8 propone número 35 para partida 5.
+Hilo 8 propone número 81 para partida 5.
+Hilo 8 propone número 91 para partida 5.
+Hilo 8 propone número 37 para partida 5.
+Hilo 8 propone número 81 para partida 5.
+Hilo 8 propone número 99 para partida 5.
+Hilo 8 propone número 21 para partida 5.
+Hilo 8 propone número 37 para partida 5.
+Hilo 8 propone número 42 para partida 5.
+Hilo 9 propone número 83 para partida 4.
+Hilo 9: otro hilo ha acertado en partida 4, nueva partida: 5.
+Hilo 9 propone número 51 para partida 5.
+Hilo 9 propone número 38 para partida 5.
+Hilo 9 propone número 82 para partida 5.
+¡¡¡ Hilo 9 acierta con el número: 82 en partida: 5 !!!
+Hilo 2 propone número 70 para partida 4.
+Hilo 2: otro hilo ha acertado en partida 4. No hay más partidas.
+Hilo 3 propone número 36 para partida 4.
+Hilo 3: otro hilo ha acertado en partida 4. No hay más partidas.
+Hilo 4 propone número 36 para partida 4.
+Hilo 4: otro hilo ha acertado en partida 4. No hay más partidas.
+Hilo 0 propone número 10 para partida 4.
+Hilo 0: otro hilo ha acertado en partida 4. No hay más partidas.
+Hilo 5 propone número 34 para partida 4.
+Hilo 5: otro hilo ha acertado en partida 4. No hay más partidas.
+Hilo 7 propone número 46 para partida 4.
+Hilo 7: otro hilo ha acertado en partida 4. No hay más partidas.
+¡¡¡ Hilo 1 acierta con el número: 82 en partida: 4 !!!
+Hilo 6 propone número 16 para partida 5.
+Hilo 6: otro hilo ha acertado en partida 5. No hay más partidas.
+Hilo 8 propone número 40 para partida 5.
+Hilo 8: otro hilo ha acertado en partida 5. No hay más partidas.
+BUILD SUCCESSFUL (total time: 0 seconds)
